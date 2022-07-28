@@ -1,0 +1,22 @@
+.Subtitulo{
+    text-shadow: 1px 1.5px 2px #000;
+}
+
+.telefono{
+    font-size: 32px;
+    position: relative;
+    color: #ffc107;
+    display: flex;
+    text-shadow: 2px 3px 1px #000;
+    text-align: center;
+}
+
+.Titulo{
+    text-shadow: 1px 4px #000;
+}
+
+.botonleer{
+    background-color: #ffc107;
+    color: #fff;
+    text-shadow: 2px 1px 1px #000;
+}
